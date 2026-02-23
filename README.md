@@ -31,9 +31,5 @@ YouTube is one of the largest digital content platforms in the world. With thous
 ## Conclusion
 The dashboard provides insights into YouTube channel performance, highlighting key factors such as category dominance, country contribution, and content volume impact on subscribers. The analysis helps understand patterns behind successful YouTube channels.
 
-## Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
 
-## Detailed Analysis
-![Detailed Analysis](images/detailed_analysis.png)
 
